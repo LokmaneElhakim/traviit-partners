@@ -163,7 +163,6 @@ export const ar = {
     "footer.facebook": "فيسبوك",
     "footer.instagram": "انستغرام",
     "footer.copyright": "© 2024 Traviit. جميع الحقوق محفوظة.",
-    ": "بدل صنعت من أجل الجزائر",
 
     "login.title": "مرحباً بعودتك",
     "login.subtitle": "أدخل بيانات الاعتماد للوصول إلى لوحة التحكم.",
