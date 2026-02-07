@@ -1,0 +1,1 @@
+// DELETED - Use app/(auth)/signup/page.tsx instead

@@ -1,0 +1,1 @@
+// DELETED - Use context/LanguageContext.tsx instead
