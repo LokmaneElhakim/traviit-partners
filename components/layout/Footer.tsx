@@ -21,9 +21,6 @@ const Footer: React.FC = () => {
                 Traviit
               </span>
             </div>
-            <p className="text-sm text-gray-500 dark:text-gray-400 mb-1">
-              {t("footer.madeFor")}
-            </p>
           </div>
 
           <div className="flex flex-col items-center md:items-end gap-6">
